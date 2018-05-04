@@ -7,9 +7,11 @@ beforeEach(function() {
 })
 
 
-function(add)
+function(add) {
+  a + b
+}
 
-
+/*
 it('add(a, b) adds two numbers and returns the result', function() {
   expect(add(a, b)).toEqual(a + b)
 })
