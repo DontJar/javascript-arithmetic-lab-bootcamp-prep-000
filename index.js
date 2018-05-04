@@ -25,14 +25,14 @@ function dec(a) {
   return (a-= 1)
 }
 
-function makeInt(a) {
-  return parseInt (a, 10)
+function makeInt(c) {
+  return parseInt (c, 10)
 }
 
 function preserveDecimal(a) {
   return parseFloat (a)
 }
 
-function isNaN(a) {
-  return parseFloat('a')
+function isNaN(c) {
+  return parseFloat('c')
 }
