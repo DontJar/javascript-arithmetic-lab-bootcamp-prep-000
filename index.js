@@ -22,5 +22,5 @@ function inc(a) {
 }
 
 function dec(a) {
-  return (a-= 3)
+  return (a-= 1)
 }
