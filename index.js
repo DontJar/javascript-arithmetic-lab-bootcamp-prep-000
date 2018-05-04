@@ -6,7 +6,6 @@ beforeEach(function() {
   b = Math.floor(Math.random() * 1000)
 })
 
-parseInt('a', 10)
 
 function(add)
 
