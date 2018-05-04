@@ -1,6 +1,6 @@
 var a
 var b
 
-function add() {
-  console.log (a + b)
+function add(a, b) {
+  return (a + b)
 }
