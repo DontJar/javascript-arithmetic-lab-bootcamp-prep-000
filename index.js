@@ -25,4 +25,4 @@ function dec(a) {
   return (a-= 1)
 }
 
-parseInt('a')
+parseInt('a', 10)
