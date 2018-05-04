@@ -32,7 +32,3 @@ function makeInt(a) {
 function preserveDecimal(a) {
   return parseFloat(a)
 }
-
-function isNaN(a) {
-  return parseFloat(a)
-}
